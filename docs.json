@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "uniqueID": 666524,
+        "drugName": "Ortho Evra",
+        "condition": "Birth Control",
+	"review": "Its very nice drug and I loved it",
+	"rating":9,
+	"date":"10-Mar-16",
+	"usefulCount":126,
+	"availability":"true"
+    }
+}
